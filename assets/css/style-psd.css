@@ -1,0 +1,1863 @@
+.Body {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 299;
+  }
+  .nav {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 298;
+  }
+  .logo {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 297;
+  }
+  .infinito {
+    font-size: 22px;
+    font-family: "OpenSans";
+    color: rgb(76, 175, 80);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: left;
+    position: absolute;
+    left: 436.938px;
+    top: 32.3px;
+    z-index: 296;
+  }
+  . {
+    font-size: 18px;
+    font-family: "Ionicons";
+    color: rgb(33, 33, 33);
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: right;
+    position: absolute;
+    left: 1515.987px;
+    top: 33.2px;
+    z-index: 293;
+  }
+  .menu_item {
+    font-size: 16px;
+    font-family: "Lora";
+    color: rgb(76, 175, 80);
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: left;
+    position: absolute;
+    left: 1053.937px;
+    top: 37.946px;
+    z-index: 292;
+  }
+  .active {
+    background-color: rgb(76, 175, 80);
+    position: absolute;
+    left: 1051px;
+    top: 66px;
+    width: 57px;
+    height: 3px;
+    z-index: 291;
+  }
+  .hero_area {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 289;
+  }
+  .content {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 288;
+  }
+  .btns {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 287;
+  }
+  .A_Beautiful_Template_for_Everyone__Here_are_som {
+    font-size: 48px;
+    font-family: "Raleway";
+    color: rgb(33, 33, 33);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 0.375;
+    text-align: left;
+    position: absolute;
+    left: 387.937px;
+    top: 298.762px;
+    z-index: 286;
+  }
+  .btn {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 285;
+  }
+  .Purchase_Now {
+    font-size: 16px;
+    font-family: "Raleway";
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: left;
+    position: absolute;
+    left: 411.937px;
+    top: 398.4px;
+    z-index: 284;
+  }
+  .btn {
+    background-color: rgb(76, 175, 80);
+    position: absolute;
+    left: 388px;
+    top: 384px;
+    width: 200px;
+    height: 48px;
+    z-index: 283;
+  }
+  .controller {
+    font-size: 26px;
+    font-family: "icomoon";
+    color: rgb(24, 25, 27);
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: right;
+    position: absolute;
+    left: 373.787px;
+    top: 624.576px;
+    z-index: 279;
+  }
+  .Rectangle_2 {
+    background-color: rgb(206, 206, 206);
+    position: absolute;
+    left: 0px;
+    top: 87px;
+    width: 1923px;
+    height: 628px;
+    z-index: 278;
+  }
+  .services {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 276;
+  }
+  .title {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 275;
+  }
+  .Curabitur_eu_adipiscing_lacus__a_iaculis_diam__ {
+    font-size: 14px;
+    font-family: "OpenSans";
+    color: rgb(128, 128, 128);
+    line-height: 1.714;
+    text-align: center;
+    position: absolute;
+    left: 569.158px;
+    top: 901.25px;
+    width: 763px;
+    height: 38px;
+    z-index: 274;
+  }
+  .What_we_are_doing_Service {
+    font-size: 14px;
+    font-family: "Lora";
+    color: rgb(33, 33, 33);
+    text-transform: uppercase;
+    line-height: 3.143;
+    text-align: center;
+    position: absolute;
+    left: 866.552px;
+    top: 822.249px;
+    z-index: 273;
+  }
+  .set_1 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 270;
+  }
+  ._1_copy_3 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 269;
+  }
+  .content {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 268;
+  }
+  .title {
+    font-size: 16px;
+    font-family: "Raleway";
+    color: rgb(33, 33, 33);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: left;
+    position: absolute;
+    left: 1335.937px;
+    top: 1104.546px;
+    width: 111px;
+    height: 12px;
+    z-index: 267;
+  }
+  .text {
+    font-size: 14px;
+    font-family: "OpenSans";
+    color: rgba(33, 33, 33, 0.702);
+    line-height: 1.571;
+    text-align: center;
+    position: absolute;
+    left: 1250.811px;
+    top: 1163.25px;
+    width: 264px;
+    height: 36px;
+    z-index: 266;
+  }
+  .icon {
+    font-size: 48px;
+    font-family: "icomoon";
+    color: rgb(24, 25, 27);
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: left;
+    position: absolute;
+    left: 1372.737px;
+    top: 1011.2px;
+    z-index: 264;
+  }
+  ._1_copy_2 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 262;
+  }
+  .content {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 261;
+  }
+  .title {
+    font-size: 16px;
+    font-family: "Raleway";
+    color: rgb(33, 33, 33);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: left;
+    position: absolute;
+    left: 1042.937px;
+    top: 1104.546px;
+    width: 111px;
+    height: 12px;
+    z-index: 260;
+  }
+  .text {
+    font-size: 14px;
+    font-family: "OpenSans";
+    color: rgba(33, 33, 33, 0.702);
+    line-height: 1.571;
+    text-align: center;
+    position: absolute;
+    left: 957.811px;
+    top: 1163.25px;
+    width: 264px;
+    height: 36px;
+    z-index: 259;
+  }
+  .icon {
+    font-size: 48px;
+    font-family: "icomoon";
+    color: rgb(24, 25, 27);
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: left;
+    position: absolute;
+    left: 1079.737px;
+    top: 1011.2px;
+    z-index: 257;
+  }
+  ._1_copy {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 255;
+  }
+  .content {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 254;
+  }
+  .title {
+    font-size: 16px;
+    font-family: "Raleway";
+    color: rgb(33, 33, 33);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: left;
+    position: absolute;
+    left: 750.937px;
+    top: 1104.546px;
+    width: 111px;
+    height: 12px;
+    z-index: 253;
+  }
+  .text {
+    font-size: 14px;
+    font-family: "OpenSans";
+    color: rgba(33, 33, 33, 0.702);
+    line-height: 1.571;
+    text-align: center;
+    position: absolute;
+    left: 665.811px;
+    top: 1163.25px;
+    width: 264px;
+    height: 36px;
+    z-index: 252;
+  }
+  .icon {
+    font-size: 48px;
+    font-family: "icomoon";
+    color: rgb(24, 25, 27);
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: left;
+    position: absolute;
+    left: 787.737px;
+    top: 1011.2px;
+    z-index: 250;
+  }
+  ._1 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 248;
+  }
+  .content {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 247;
+  }
+  .title {
+    font-size: 16px;
+    font-family: "Raleway";
+    color: rgb(33, 33, 33);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: left;
+    position: absolute;
+    left: 457.937px;
+    top: 1104.546px;
+    width: 111px;
+    height: 12px;
+    z-index: 246;
+  }
+  .text {
+    font-size: 14px;
+    font-family: "OpenSans";
+    color: rgba(33, 33, 33, 0.702);
+    line-height: 1.571;
+    text-align: center;
+    position: absolute;
+    left: 372.811px;
+    top: 1163.25px;
+    width: 264px;
+    height: 36px;
+    z-index: 245;
+  }
+  .icon {
+    font-size: 48px;
+    font-family: "icomoon";
+    color: rgb(24, 25, 27);
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: left;
+    position: absolute;
+    left: 494.737px;
+    top: 1011.2px;
+    z-index: 243;
+  }
+  .about {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 209;
+  }
+  .content {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 208;
+  }
+  .title {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 207;
+  }
+  .About_us_Who_we_are {
+    font-size: 14px;
+    font-family: "Lora";
+    color: rgb(33, 33, 33);
+    text-transform: uppercase;
+    line-height: 3.143;
+    text-align: left;
+    position: absolute;
+    left: 973.937px;
+    top: 1608.249px;
+    z-index: 206;
+  }
+  .btns {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 204;
+  }
+  .Lorem_ipsum_dolor_sit_amet__sed_dicunt_oporteat {
+    font-size: 14px;
+    font-family: "OpenSans";
+    color: rgb(33, 33, 33);
+    line-height: 1.714;
+    text-align: left;
+    position: absolute;
+    left: 974.134px;
+    top: 1702.25px;
+    width: 553px;
+    height: 110px;
+    z-index: 203;
+  }
+  .btn_outline {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 202;
+  }
+  .our_works {
+    font-size: 16px;
+    font-family: "OpenSans";
+    color: rgb(76, 175, 80);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: left;
+    position: absolute;
+    left: 1178.937px;
+    top: 1855.9px;
+    z-index: 201;
+  }
+  .btn {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 199;
+  }
+  .Contact_Us {
+    font-size: 16px;
+    font-family: "OpenSans";
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: left;
+    position: absolute;
+    left: 995.937px;
+    top: 1855.4px;
+    z-index: 198;
+  }
+  .btn_copy {
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(76, 175, 80);
+    background-color: rgba(76, 175, 80, 0);
+    position: absolute;
+    left: 1151px;
+    top: 1838px;
+    width: 169px;
+    height: 52px;
+    z-index: 197;
+  }
+  .btn {
+    background-color: rgb(76, 175, 80);
+    position: absolute;
+    left: 974px;
+    top: 1841px;
+    width: 165px;
+    height: 48px;
+    z-index: 196;
+  }
+  .Rectangle_3 {
+    background-color: rgb(189, 168, 127);
+    position: absolute;
+    left: 0px;
+    top: 1365px;
+    width: 917px;
+    height: 714px;
+    z-index: 192;
+  }
+  .back {
+    background-color: rgb(250, 250, 250);
+    position: absolute;
+    left: -1px;
+    top: 1362px;
+    width: 1924px;
+    height: 717px;
+    z-index: 190;
+  }
+  .works {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 188;
+  }
+  .title {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 187;
+  }
+  .OUR_RECENT_Works {
+    font-size: 14px;
+    font-family: "Lora";
+    color: rgb(33, 33, 33);
+    text-transform: uppercase;
+    line-height: 3.143;
+    text-align: left;
+    position: absolute;
+    left: 388.937px;
+    top: 2206.249px;
+    z-index: 186;
+  }
+  .filter {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 184;
+  }
+  .active {
+    background-color: rgb(76, 175, 80);
+    position: absolute;
+    left: 390px;
+    top: 2312px;
+    width: 5px;
+    height: 24px;
+    z-index: 183;
+  }
+  .filter {
+    font-size: 16px;
+    font-family: "OpenSans";
+    color: rgb(76, 175, 80);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 2;
+    text-align: left;
+    position: absolute;
+    left: 387.937px;
+    top: 2346.546px;
+    width: 159px;
+    height: 316px;
+    z-index: 182;
+  }
+  .works {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 180;
+  }
+  .CTA {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 168;
+  }
+  .content {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 167;
+  }
+  .btns {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 166;
+  }
+  .A_Beautiful_theme_for_Everyone {
+    font-size: 56px;
+    font-family: "Lora";
+    color: rgb(33, 33, 33);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.107;
+    text-align: left;
+    position: absolute;
+    left: 440.844px;
+    top: 3509.004px;
+    z-index: 165;
+  }
+  .btn_outline {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 164;
+  }
+  .Live_Demo {
+    font-size: 16px;
+    font-family: "OpenSans";
+    color: rgb(76, 175, 80);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1015.937px;
+    top: 3650.4px;
+    z-index: 163;
+  }
+  .btn {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 161;
+  }
+  .Purchase_Now {
+    font-size: 16px;
+    font-family: "OpenSans";
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: left;
+    position: absolute;
+    left: 795.937px;
+    top: 3650.4px;
+    z-index: 160;
+  }
+  .btn_copy_2 {
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(76, 175, 80);
+    background-color: rgba(76, 175, 80, 0);
+    position: absolute;
+    left: 977px;
+    top: 3633px;
+    width: 163px;
+    height: 52px;
+    z-index: 159;
+  }
+  .btn {
+    background-color: rgb(76, 175, 80);
+    position: absolute;
+    left: 762px;
+    top: 3636px;
+    width: 200px;
+    height: 48px;
+    z-index: 158;
+  }
+  .icon {
+    font-size: 42px;
+    font-family: "icomoon";
+    color: rgba(33, 33, 33, 0.702);
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 937.887px;
+    top: 3377.583px;
+    z-index: 154;
+  }
+  .down {
+    font-size: 42px;
+    font-family: "icomoon";
+    color: rgba(33, 33, 33, 0.302);
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 941.887px;
+    top: 3769.583px;
+    z-index: 153;
+  }
+  .back {
+    background-color: rgb(192, 192, 192);
+    position: absolute;
+    left: 0px;
+    top: 3285px;
+    width: 1920px;
+    height: 601px;
+    z-index: 152;
+  }
+  .why_us {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 150;
+  }
+  .title {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 149;
+  }
+  .Opportunities_unlimited_Our_Core_features {
+    font-size: 14px;
+    font-family: "Lora";
+    color: rgb(33, 33, 33);
+    text-transform: uppercase;
+    line-height: 3.143;
+    text-align: left;
+    position: absolute;
+    left: 388.937px;
+    top: 4017.249px;
+    z-index: 148;
+  }
+  .services {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 146;
+  }
+  ._3_copy {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 145;
+  }
+  .content {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 144;
+  }
+  .title {
+    font-size: 20px;
+    font-family: "OpenSans";
+    color: rgb(33, 33, 33);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: left;
+    -moz-transform: matrix( 0.99949948492701,0,0,1.00326459745385,0,0);
+    -webkit-transform: matrix( 0.99949948492701,0,0,1.00326459745385,0,0);
+    -ms-transform: matrix( 0.99949948492701,0,0,1.00326459745385,0,0);
+    position: absolute;
+    left: 1256.03px;
+    top: 4295.965px;
+    width: 115.8px;
+    height: 15.466px;
+    z-index: 143;
+  }
+  .text {
+    font-size: 14px;
+    font-family: "OpenSans";
+    color: rgba(33, 33, 33, 0.702);
+    line-height: 1.571;
+    text-align: left;
+    -moz-transform: matrix( 0.99949948492701,0,0,1.00326459745385,0,0);
+    -webkit-transform: matrix( 0.99949948492701,0,0,1.00326459745385,0,0);
+    -ms-transform: matrix( 0.99949948492701,0,0,1.00326459745385,0,0);
+    position: absolute;
+    left: 1281.935px;
+    top: 4355.782px;
+    width: 232.004px;
+    height: 34.936px;
+    z-index: 142;
+  }
+  .icon {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 140;
+  }
+  .icon {
+    font-size: 32px;
+    font-family: "icomoon";
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: center;
+    -moz-transform: matrix( 0.99949948492701,0,0,1.00326459745385,0,0);
+    -webkit-transform: matrix( 0.99949948492701,0,0,1.00326459745385,0,0);
+    -ms-transform: matrix( 0.99949948492701,0,0,1.00326459745385,0,0);
+    position: absolute;
+    left: 1197.1px;
+    top: 4312.8px;
+    z-index: 139;
+  }
+  .icon {
+    border-radius: 35px;
+    background-color: rgb(24, 25, 27);
+    position: absolute;
+    left: 1170px;
+    top: 4297px;
+    width: 70px;
+    height: 71px;
+    z-index: 138;
+  }
+  ._2_copy {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 135;
+  }
+  .content {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 134;
+  }
+  .title {
+    font-size: 20px;
+    font-family: "OpenSans";
+    color: rgb(33, 33, 33);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: left;
+    -moz-transform: matrix( 0.99949948492701,0,0,1.00326459745385,0,0);
+    -webkit-transform: matrix( 0.99949948492701,0,0,1.00326459745385,0,0);
+    -ms-transform: matrix( 0.99949948492701,0,0,1.00326459745385,0,0);
+    position: absolute;
+    left: 866.03px;
+    top: 4295.965px;
+    width: 115.8px;
+    height: 15.466px;
+    z-index: 133;
+  }
+  .text {
+    font-size: 14px;
+    font-family: "OpenSans";
+    color: rgba(33, 33, 33, 0.702);
+    line-height: 1.571;
+    text-align: left;
+    -moz-transform: matrix( 0.99949948492701,0,0,1.00326459745385,0,0);
+    -webkit-transform: matrix( 0.99949948492701,0,0,1.00326459745385,0,0);
+    -ms-transform: matrix( 0.99949948492701,0,0,1.00326459745385,0,0);
+    position: absolute;
+    left: 891.935px;
+    top: 4355.782px;
+    width: 232.004px;
+    height: 34.936px;
+    z-index: 132;
+  }
+  .icon {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 130;
+  }
+  .icon {
+    font-size: 32px;
+    font-family: "icomoon";
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: center;
+    -moz-transform: matrix( 0.99949948492701,0,0,1.00326459745385,0,0);
+    -webkit-transform: matrix( 0.99949948492701,0,0,1.00326459745385,0,0);
+    -ms-transform: matrix( 0.99949948492701,0,0,1.00326459745385,0,0);
+    position: absolute;
+    left: 807.1px;
+    top: 4312.8px;
+    z-index: 129;
+  }
+  .icon {
+    border-radius: 35px;
+    background-color: rgb(24, 25, 27);
+    position: absolute;
+    left: 780px;
+    top: 4297px;
+    width: 70px;
+    height: 71px;
+    z-index: 128;
+  }
+  ._1_copy_4 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 125;
+  }
+  .content {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 124;
+  }
+  .title {
+    font-size: 20px;
+    font-family: "OpenSans";
+    color: rgb(33, 33, 33);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: left;
+    position: absolute;
+    left: 466.93px;
+    top: 4294.198px;
+    width: 134px;
+    height: 19px;
+    z-index: 123;
+  }
+  .text {
+    font-size: 14px;
+    font-family: "OpenSans";
+    color: rgba(33, 33, 33, 0.702);
+    line-height: 1.571;
+    text-align: left;
+    position: absolute;
+    left: 485.937px;
+    top: 4354.25px;
+    width: 264px;
+    height: 37px;
+    z-index: 122;
+  }
+  .icon {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 120;
+  }
+  .icon {
+    font-size: 32px;
+    font-family: "icomoon";
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 407.044px;
+    top: 4312.8px;
+    z-index: 119;
+  }
+  .icon {
+    border-radius: 50%;
+    background-color: rgb(24, 25, 27);
+    position: absolute;
+    left: 390px;
+    top: 4297px;
+    width: 70px;
+    height: 70px;
+    z-index: 118;
+  }
+  ._3 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 115;
+  }
+  .content {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 114;
+  }
+  .title {
+    font-size: 20px;
+    font-family: "OpenSans";
+    color: rgb(33, 33, 33);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: left;
+    -moz-transform: matrix( 0.99949948492701,0,0,1.00326459745385,0,0);
+    -webkit-transform: matrix( 0.99949948492701,0,0,1.00326459745385,0,0);
+    -ms-transform: matrix( 0.99949948492701,0,0,1.00326459745385,0,0);
+    position: absolute;
+    left: 1256.03px;
+    top: 4155.965px;
+    width: 115.8px;
+    height: 15.466px;
+    z-index: 113;
+  }
+  .text {
+    font-size: 14px;
+    font-family: "OpenSans";
+    color: rgba(33, 33, 33, 0.702);
+    line-height: 1.571;
+    text-align: left;
+    -moz-transform: matrix( 0.99949948492701,0,0,1.00326459745385,0,0);
+    -webkit-transform: matrix( 0.99949948492701,0,0,1.00326459745385,0,0);
+    -ms-transform: matrix( 0.99949948492701,0,0,1.00326459745385,0,0);
+    position: absolute;
+    left: 1281.935px;
+    top: 4215.782px;
+    width: 232.004px;
+    height: 34.936px;
+    z-index: 112;
+  }
+  .icon {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 110;
+  }
+  .icon {
+    font-size: 32px;
+    font-family: "icomoon";
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: center;
+    -moz-transform: matrix( 0.99949948492701,0,0,1.00326459745385,0,0);
+    -webkit-transform: matrix( 0.99949948492701,0,0,1.00326459745385,0,0);
+    -ms-transform: matrix( 0.99949948492701,0,0,1.00326459745385,0,0);
+    position: absolute;
+    left: 1197.1px;
+    top: 4172.8px;
+    z-index: 109;
+  }
+  .icon {
+    border-radius: 35px;
+    background-color: rgb(24, 25, 27);
+    position: absolute;
+    left: 1170px;
+    top: 4157px;
+    width: 70px;
+    height: 71px;
+    z-index: 108;
+  }
+  ._2 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 105;
+  }
+  .content {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 104;
+  }
+  .title {
+    font-size: 20px;
+    font-family: "OpenSans";
+    color: rgb(76, 175, 80);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: left;
+    -moz-transform: matrix( 0.99949948492701,0,0,1.00326459745385,0,0);
+    -webkit-transform: matrix( 0.99949948492701,0,0,1.00326459745385,0,0);
+    -ms-transform: matrix( 0.99949948492701,0,0,1.00326459745385,0,0);
+    position: absolute;
+    left: 866.03px;
+    top: 4155.965px;
+    width: 115.8px;
+    height: 15.466px;
+    z-index: 103;
+  }
+  .text {
+    font-size: 14px;
+    font-family: "OpenSans";
+    color: rgba(33, 33, 33, 0.702);
+    line-height: 1.571;
+    text-align: left;
+    -moz-transform: matrix( 0.99949948492701,0,0,1.00326459745385,0,0);
+    -webkit-transform: matrix( 0.99949948492701,0,0,1.00326459745385,0,0);
+    -ms-transform: matrix( 0.99949948492701,0,0,1.00326459745385,0,0);
+    position: absolute;
+    left: 891.935px;
+    top: 4215.782px;
+    width: 232.004px;
+    height: 34.936px;
+    z-index: 102;
+  }
+  .icon {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 100;
+  }
+  .icon {
+    font-size: 32px;
+    font-family: "icomoon";
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: center;
+    -moz-transform: matrix( 0.99949948492701,0,0,1.00326459745385,0,0);
+    -webkit-transform: matrix( 0.99949948492701,0,0,1.00326459745385,0,0);
+    -ms-transform: matrix( 0.99949948492701,0,0,1.00326459745385,0,0);
+    position: absolute;
+    left: 807.1px;
+    top: 4172.8px;
+    z-index: 99;
+  }
+  .icon {
+    border-radius: 35px;
+    background-color: rgb(76, 175, 80);
+    position: absolute;
+    left: 780px;
+    top: 4157px;
+    width: 70px;
+    height: 71px;
+    z-index: 98;
+  }
+  ._1 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 95;
+  }
+  .content {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 94;
+  }
+  .title {
+    font-size: 20px;
+    font-family: "OpenSans";
+    color: rgb(33, 33, 33);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: left;
+    position: absolute;
+    left: 466.93px;
+    top: 4154.198px;
+    width: 134px;
+    height: 19px;
+    z-index: 93;
+  }
+  .text {
+    font-size: 14px;
+    font-family: "OpenSans";
+    color: rgba(33, 33, 33, 0.702);
+    line-height: 1.571;
+    text-align: left;
+    position: absolute;
+    left: 485.937px;
+    top: 4214.25px;
+    width: 264px;
+    height: 37px;
+    z-index: 92;
+  }
+  .icon {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 90;
+  }
+  .icon {
+    font-size: 32px;
+    font-family: "icomoon";
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 407.044px;
+    top: 4172.8px;
+    z-index: 89;
+  }
+  .icon {
+    border-radius: 50%;
+    background-color: rgb(24, 25, 27);
+    position: absolute;
+    left: 390px;
+    top: 4157px;
+    width: 70px;
+    height: 70px;
+    z-index: 88;
+  }
+  .background {
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(241, 241, 241);
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: -3px;
+    top: 3883px;
+    width: 1924px;
+    height: 656px;
+    z-index: 84;
+  }
+  .testimonial {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 82;
+  }
+  .quote {
+    font-size: 20px;
+    font-family: "OpenSans";
+    color: rgba(24, 25, 27, 0.702);
+    line-height: 1.5;
+    position: absolute;
+    left: 389.937px;
+    top: 4784.198px;
+    width: 639px;
+    height: 111px;
+    z-index: 81;
+  }
+  .name {
+    font-size: 20px;
+    font-family: "Lora";
+    color: rgb(24, 25, 27);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: left;
+    position: absolute;
+    left: 389.071px;
+    top: 4912.198px;
+    width: 102px;
+    height: 40px;
+    z-index: 80;
+  }
+  .navigation {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 79;
+  }
+  .scroller_active {
+    border-radius: 50%;
+    background-color: rgb(76, 175, 80);
+    position: absolute;
+    left: 410px;
+    top: 5026px;
+    width: 20px;
+    height: 20px;
+    z-index: 78;
+  }
+  .scroller {
+    background-color: rgb(24, 25, 27);
+    opacity: 0.302;
+    position: absolute;
+    left: 390px;
+    top: 5026px;
+    width: 80px;
+    height: 20px;
+    z-index: 77;
+  }
+  .person {
+    background-image: url("person.png");
+    position: absolute;
+    left: 969px;
+    top: 4635px;
+    width: 567px;
+    height: 593px;
+    z-index: 75;
+  }
+  .back {
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 307px;
+    top: 4538px;
+    width: 1290px;
+    height: 690px;
+    z-index: 73;
+  }
+  .partners {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 71;
+  }
+  .title {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 70;
+  }
+  .Who_keeps_trust_Partners {
+    font-size: 14px;
+    font-family: "Lora";
+    color: rgb(24, 25, 27);
+    text-transform: uppercase;
+    line-height: 3.143;
+    text-align: left;
+    position: absolute;
+    left: 389.844px;
+    top: 5369.249px;
+    z-index: 69;
+  }
+  .services {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 67;
+  }
+  ._1 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 66;
+  }
+  .Layer_4 {
+    background-image: url("Layer 4.png");
+    position: absolute;
+    left: 444px;
+    top: 5505px;
+    width: 130px;
+    height: 37px;
+    z-index: 65;
+  }
+  .back {
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(231, 232, 232);
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 371px;
+    top: 5460px;
+    width: 274px;
+    height: 124px;
+    z-index: 64;
+  }
+  ._2 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 62;
+  }
+  .Layer_3 {
+    background-image: url("Layer 3.png");
+    opacity: 0.502;
+    position: absolute;
+    left: 752px;
+    top: 5502px;
+    width: 100px;
+    height: 42px;
+    z-index: 61;
+  }
+  .back {
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(231, 232, 232);
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 664px;
+    top: 5460px;
+    width: 274px;
+    height: 124px;
+    z-index: 60;
+  }
+  ._3 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 58;
+  }
+  .Layer_2 {
+    background-image: url("Layer 2.png");
+    opacity: 0.502;
+    position: absolute;
+    left: 1042px;
+    top: 5506px;
+    width: 120px;
+    height: 35px;
+    z-index: 57;
+  }
+  .back {
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(231, 232, 232);
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 964px;
+    top: 5460px;
+    width: 274px;
+    height: 124px;
+    z-index: 56;
+  }
+  ._4 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 54;
+  }
+  .Layer_1 {
+    background-image: url("Layer 1.png");
+    opacity: 0.502;
+    position: absolute;
+    left: 1342px;
+    top: 5499px;
+    width: 120px;
+    height: 48px;
+    z-index: 53;
+  }
+  .back {
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(231, 232, 232);
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 1264px;
+    top: 5460px;
+    width: 274px;
+    height: 124px;
+    z-index: 52;
+  }
+  .navigation {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 49;
+  }
+  .scroller_active {
+    border-radius: 50%;
+    background-color: rgb(76, 175, 80);
+    position: absolute;
+    left: 1477px;
+    top: 5613px;
+    width: 20px;
+    height: 20px;
+    z-index: 48;
+  }
+  .scroller {
+    background-color: rgb(24, 25, 27);
+    opacity: 0.302;
+    position: absolute;
+    left: 1457px;
+    top: 5613px;
+    width: 80px;
+    height: 20px;
+    z-index: 47;
+  }
+  .background {
+    background-color: rgb(241, 241, 241);
+    position: absolute;
+    left: 0px;
+    top: 5228px;
+    width: 1920px;
+    height: 505px;
+    z-index: 45;
+  }
+  .cta {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 43;
+  }
+  .title {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 42;
+  }
+  .title {
+    font-size: 56px;
+    font-family: "Lora";
+    color: rgb(33, 33, 33);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.107;
+    text-align: left;
+    position: absolute;
+    left: 433.937px;
+    top: 5888.183px;
+    width: 571px;
+    height: 46px;
+    z-index: 41;
+  }
+  .sub_title {
+    font-size: 24px;
+    font-family: "OpenSans";
+    color: rgba(33, 33, 33, 0.702);
+    text-transform: uppercase;
+    line-height: 2.583;
+    text-align: left;
+    position: absolute;
+    left: 433.937px;
+    top: 5958.996px;
+    width: 343px;
+    height: 21px;
+    z-index: 40;
+  }
+  .btn {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 38;
+  }
+  .Contact_Us {
+    font-size: 20px;
+    font-family: "OpenSans";
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: left;
+    position: absolute;
+    left: 1319.92px;
+    top: 5868px;
+    z-index: 37;
+  }
+  .btn {
+    background-color: rgb(76, 175, 80);
+    position: absolute;
+    left: 1284px;
+    top: 5849px;
+    width: 200px;
+    height: 62px;
+    z-index: 36;
+  }
+  .back {
+    background-color: rgb(255, 255, 255);
+    opacity: 0.8;
+    position: absolute;
+    left: 314px;
+    top: 5733px;
+    width: 1290px;
+    height: 280px;
+    z-index: 34;
+  }
+  .footer {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 32;
+  }
+  .logo {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 31;
+  }
+  .infinito {
+    font-size: 22px;
+    font-family: "nevis";
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: left;
+    position: absolute;
+    left: 435.938px;
+    top: 6115.3px;
+    z-index: 30;
+  }
+  .col_1 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 27;
+  }
+  .icon {
+    font-size: 16px;
+    font-family: "icomoon";
+    color: rgb(255, 255, 255);
+    line-height: 1.5;
+    position: absolute;
+    left: 374.037px;
+    top: 6222.546px;
+    width: 17px;
+    height: 108px;
+    z-index: 26;
+  }
+  .address {
+    font-size: 16px;
+    font-family: "Montserrat";
+    color: rgb(255, 255, 255);
+    line-height: 1.5;
+    position: absolute;
+    left: 373.555px;
+    top: 6220.546px;
+    width: 229px;
+    height: 113px;
+    z-index: 25;
+  }
+  .social_links {
+    font-size: 20px;
+    font-family: "icomoon";
+    color: rgba(255, 255, 255, 0.702);
+    line-height: 1.2;
+    position: absolute;
+    left: 374.937px;
+    top: 6373.198px;
+    width: 211px;
+    height: 20px;
+    z-index: 24;
+  }
+  .links {
+    font-size: 16px;
+    font-family: "Montserrat";
+    color: rgb(255, 255, 255);
+    line-height: 1.5;
+    position: absolute;
+    left: 774.203px;
+    top: 6221.546px;
+    width: 100px;
+    height: 133px;
+    z-index: 22;
+  }
+  .links {
+    font-size: 16px;
+    font-family: "Montserrat";
+    color: rgb(255, 255, 255);
+    line-height: 1.5;
+    position: absolute;
+    left: 972.937px;
+    top: 6221.546px;
+    width: 161px;
+    height: 112px;
+    z-index: 21;
+  }
+  .subscribe {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 20;
+  }
+  .Subscribe {
+    font-size: 20px;
+    font-family: "nevis";
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.2;
+    position: absolute;
+    left: 1174.16px;
+    top: 6220.198px;
+    width: 123px;
+    height: 15px;
+    z-index: 19;
+  }
+  .Lorem_ipsum_dolor_sit_amet__conse_ctetur_adipis {
+    font-size: 16px;
+    font-family: "Montserrat";
+    color: rgb(255, 255, 255);
+    line-height: 1.5;
+    position: absolute;
+    left: 1173.937px;
+    top: 6261.546px;
+    width: 279px;
+    height: 40px;
+    z-index: 18;
+  }
+  .btn {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 17;
+  }
+  . {
+    font-size: 24px;
+    font-family: "icomoon";
+    color: rgb(24, 25, 27);
+    line-height: 1;
+    position: absolute;
+    left: 1473.837px;
+    top: 6315.5px;
+    z-index: 16;
+  }
+  .btn {
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 1458px;
+    top: 6303px;
+    width: 48px;
+    height: 48px;
+    z-index: 15;
+  }
+  .input {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 6543px;
+    z-index: 13;
+  }
+  .sample_email_com {
+    font-size: 14px;
+    font-family: "Montserrat";
+    color: rgb(255, 255, 255);
+    line-height: 1.714;
+    position: absolute;
+    left: 1225.134px;
+    top: 6337.252px;
+    z-index: 12;
+  }
+  .input {
+    border-width: 1px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    position: absolute;
+    left: 1206px;
+    top: 6307px;
+    width: 298px;
+    height: 38px;
+    z-index: 11;
+  }
+  .Copyright_©_2015_Infinito__Design___Develop_by_ {
+    font-size: 14px;
+    font-family: "Montserrat";
+    color: rgb(255, 255, 255);
+    line-height: 1.857;
+    text-align: left;
+    position: absolute;
+    left: 372.937px;
+    top: 6498.251px;
+    z-index: 8;
+  }
+  .background {
+    background-color: rgb(24, 25, 27);
+    position: absolute;
+    left: -1px;
+    top: 6013px;
+    width: 1924px;
+    height: 530px;
+    z-index: 6;
+  }
+  
